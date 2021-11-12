@@ -1,5 +1,4 @@
-# Anaconda_common_Errors
-Common errors faced in anaconda/jupyter and so on
+Common Errors faced in anaconda/jupter and so on
 
 # Common_Errors_Anaconda_(Windows 10)
 ## Error 01:
