@@ -84,7 +84,7 @@ Common Errors faced in anaconda/jupter and so on
 * :+1: Solution that worked for me:
     - My anaconda was installed on `d: drive` meanwhile the prompt was from the `c: drive` so I only needed to `cd` to `d:`
 
-## Note for Error 09:
+## Note for Error 08:
 * If you're gonna install spyder/python and Rstudio, then better separate them into two different environment, as probably both will conflict together.
 
 ## Error 09:
